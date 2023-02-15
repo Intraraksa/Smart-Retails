@@ -1,0 +1,17 @@
+names:
+- Coke-Bottle
+- Coke-can
+- Collon
+- Milk-candy
+- Nescafe
+- Snack
+nc: 6
+roboflow:
+  license: Private
+  project: smart-retail-e887v
+  url: https://app.roboflow.com/intrarakza/smart-retail-e887v/2
+  version: 2
+  workspace: intrarakza
+test: ../test/images
+train: Smart-Retail-2/train/images
+val: Smart-Retail-2/valid/images
